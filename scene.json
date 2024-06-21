@@ -1,0 +1,94 @@
+{
+    "left_gripper":{
+        "position":[0,0,0],
+         "color": "red"
+    },
+
+    "right_gripper":{
+        "position": [0,0,0],
+        "color": "red"
+    },
+
+    "peg_1":{
+        "position": [0,0,0],
+        "color": "red"
+       
+    },
+
+    "peg_2":{
+        "position": [0,0,0],
+        "color": "red"
+    },
+
+    "peg_3":{
+        "position": [0,0,0],
+        "color": "red"
+    },
+
+    "peg_4":{
+        "position": [0,0,0],
+        "color": "red"
+    },
+    
+    "peg_5":{
+        "position": [0,0,0],
+        "color": "red"
+    },
+
+
+    "column_1":{
+        "position": [0,0,0],
+        "color": "red"
+    },
+
+    "column_2":{
+        "position": [0,0,0],
+        "color": "red"
+    },
+
+    "column_3":{
+        "position": [0,0,0],
+        "color": "red"
+    },
+
+    "column_4":{
+        "position": [0,0,0],
+        "color": "red"
+    },
+
+    "column_5":{
+        "position": [0,0,0],
+        "color": "red"
+    },
+
+    "column_6":{
+        "position": [0,0,0],
+        "color": "red"
+    },
+
+    "column_7":{
+        "position": [0,0,0],
+        "color": "red"
+    },
+
+    "column_8":{
+        "position": [0,0,0],
+        "color": "red"
+    },
+
+    "column_9":{
+        "position": [0,0,0],
+        "color": "red"
+    },
+
+    "column_10":{
+        "position": [0,0,0],
+        "color": "red"
+    },
+
+    "column_11":{
+        "position": [0,0,0],
+        "color": "red"
+    }
+
+}
